@@ -1,7 +1,6 @@
 /*
-  Name: Jay Patel
-  Class: CS202 (UTK)
-  Lab 5: Hash Tables (Hash_202)
+  Jay Patel
+  Hash Tables (Hash_202)
 
   Overview:
   Implements Hash_202 using open addressing.
