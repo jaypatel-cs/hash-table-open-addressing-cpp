@@ -1,0 +1,17 @@
+# Compiled output
+*.o
+*.out
+*.exe
+a.out
+
+# Build folders
+bin/
+obj/
+build/
+
+# Mac / Windows junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
